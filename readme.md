@@ -37,5 +37,3 @@ Users can browse the menu, make orders, view receipts, and calculate totals — 
   - `string.h` – string manipulation
   - `ctype.h` – character handling
   - `time.h` (optional) – for date/time receipts
-
----
